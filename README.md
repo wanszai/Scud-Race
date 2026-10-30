@@ -1,120 +1,218 @@
-Scud-Race
+<div align="center">
 
-Scud Race PC, X360 and XSX.
+# 🏁 SCUD RACE
 
-An easy way to play the classic Sega Scud Race on modern hardware with some QOL upgrades that retains the original spirit and feel. 30 years ago this hit the arcades and left everyone stunned. Experience it now in all it glory in a convenient, simple to use package.
+### The Arcade Legend Returns
 
+**Scud Race / Sega Super GT — PC • Xbox 360 • Xbox Series X**
 
-AI Disclosure.
+*30 years later. The race is still on.*
 
-This is an AI assisted project. This is not emulation, this is a ported from a full decompilation of the model 3 arcade game.
+[Features](#-features) • [Requirements](#-requirements) • [Installation](#-installation) • [Future Updates](#-potential-future-updates) • [Support](#-support-the-project)
 
+---
 
-Features.
+</div>
 
-Play in the original arcade resolution or crank it all the way up to 8k.
+## 🏎️ About The Project
 
-Multiple aspect ratio's supported.
+An easy way to play the classic Sega **Scud Race** on modern hardware, with quality-of-life upgrades that retain the original spirit and feel.
 
-Stereo or Surround sound.
+30 years ago, Scud Race hit the arcades and left everyone stunned. The visuals, the speed, the music blaring through the arcade speakers — it was something special.
 
-Custom Soundtracks.
+Now you can experience it all over again, with modern resolutions, improved compatibility, online multiplayer, and a few extras, all wrapped up in a convenient, simple-to-use package.
 
-Compatible with a wide range of steering wheels and accessories.
+**The original arcade experience, brought to modern hardware.**
 
-Legacy and Modern Force feedback for wheels that support it.
+### 🤖 AI Disclosure
 
-System Link via LAN.
+This is an AI-assisted project.
 
-Online games via our EU Dedicated Host.
+**This is not emulation.** Scud Race has been ported from a full decompilation of the original Sega Model 3 arcade game.
 
-Records - Fastest Online racers.
+The aim is to preserve the original gameplay and arcade experience while taking advantage of modern hardware.
 
-Cross play between between all supported platforms.
+---
 
+## ✨ Features
 
-Potential future updates include.
+| Feature | Description |
+|:---|:---|
+| 🖥️ **Resolution** | Play at the original arcade resolution or crank it all the way up to 8K |
+| 📺 **Aspect Ratios** | Multiple aspect ratios supported |
+| 🔊 **Audio** | Stereo and surround sound |
+| 🎵 **Custom Soundtracks** | Bring your own music to the race |
+| 🏎️ **Wheel Support** | Compatible with a wide range of steering wheels and accessories |
+| 🎮 **Force Feedback** | Legacy and modern force feedback for supported wheels |
+| 🔗 **System Link** | Local multiplayer over LAN |
+| 🌍 **Online Multiplayer** | Race online via our dedicated EU host |
+| 🏆 **Online Records** | Compete for the fastest online racing records |
+| 🔄 **Cross-Play** | Play together across all supported platforms |
 
-Additional regional servers.
+### 🎯 Supported Platforms
 
-VR support.
+| Platform | Status |
+|:---|:---|
+| Windows PC | ✅ Supported |
+| Xbox 360 | ✅ Supported |
+| Xbox Series X | ✅ Supported |
 
-Increased online player count.
+---
 
-Split screen multiplayer.
+## 🚀 Potential Future Updates
 
+The following features are being considered for future releases:
 
-Requirements.
+- 🌎 Additional regional online servers
+- 🥽 Virtual Reality support
+- 🏁 Increased online player count
+- 🎮 Split-screen multiplayer
 
-scud.zip - Scud Race / Sega Super GT - Twin/DX (split set)
-MD5 - D2D619B0EE5CBF74596431B28080C420
+*These are potential additions and are not guaranteed.*
 
-*dayto2pe.zip Daytona USA 2: Power Edition (split set)
-MD5 - D05EF348C9BE8408EF50EA74DAE29F71
+---
 
+## 📦 Requirements
 
-*Optional. Used to unlock the Hornet in Scud Race.
+The following arcade ROM archives are required.
 
+| File | Description | Required |
+|:---|:---|:---:|
+| `scud.zip` | Scud Race / Sega Super GT — Twin/DX (split set) | ✅ |
+| `dayto2pe.zip` | Daytona USA 2: Power Edition (split set) | Optional |
 
-PC Setup.
+### ROM Verification — MD5 Checksums
 
+**Scud Race / Sega Super GT**
 
-Extract Scud Race to your preferred directory.
+`scud.zip`
 
-Drop scud.zip in to the folder next to scudrace.exe
+```text
+D2D619B0EE5CBF74596431B28080C420
+```
 
-Drop dayto2pe.zip in to the folder next to scudrace.exe
+**Daytona USA 2: Power Edition**
 
-Drop you custom soundtrack in to the Music folder.
+`dayto2pe.zip`
 
-Power on any controllers or other peripherals before starting.
+```text
+D05EF348C9BE8408EF50EA74DAE29F71
+```
 
-Run scudrace.exe.
+> **Note:** `dayto2pe.zip` is optional and is used to unlock the **Hornet** in Scud Race.
 
+ROM files are not included with this project.
 
-Xbox 360 Setup.
+---
 
+## 🛠️ Installation
 
-Extract Scud Race to your preferred directory.
+Choose your platform below and follow the relevant instructions.
 
-Drop scud.zip in to the folder next to scudrace.xex
+### 🖥️ Windows PC
 
-Drop dayto2pe.zip in to the folder next to scudrace.xex
+1. Extract Scud Race to your preferred directory.
+2. Place `scud.zip` alongside `scudrace.exe`.
+3. Place the optional `dayto2pe.zip` alongside `scudrace.exe`.
+4. Copy any custom soundtrack files into the `Music` folder.
+5. Power on your controllers, steering wheels, and other peripherals **before launching the game**.
+6. Run `scudrace.exe`.
 
-Drop you custom soundtrack in to the Music folder.
+**Example directory structure:**
 
-Move your Scud Race Folder to the Xbox 360 Storage.
+```text
+Scud Race/
+├── scudrace.exe
+├── scud.zip
+├── dayto2pe.zip       (Optional)
+└── Music/
+    └── Your custom soundtrack files
+```
 
-Launch scudrace.xex.
+### 🎮 Xbox 360
 
+1. Extract Scud Race to your preferred directory.
+2. Place `scud.zip` alongside `scudrace.xex`.
+3. Place the optional `dayto2pe.zip` alongside `scudrace.xex`.
+4. Copy any custom soundtrack files into the `Music` folder.
+5. Transfer the complete Scud Race folder to your Xbox 360 storage.
+6. Launch `scudrace.xex`.
 
-Xbox Series X.
+**Example directory structure:**
 
+```text
+Scud Race/
+├── scudrace.xex
+├── scud.zip
+├── dayto2pe.zip       (Optional)
+└── Music/
+    └── Your custom soundtrack files
+```
 
-Extract the scudrace.appx file.
+### 🎮 Xbox Series X
 
-Load it onto your Series X using the Developer Portal.
+1. Extract the `scudrace.appx` package.
+2. Deploy the package to your Xbox Series X using the **Xbox Developer Portal**.
+3. Place `scud.zip` in the root directory of your Xbox-formatted USB drive.
+4. Place the optional `dayto2pe.zip` in the root directory of the same USB drive.
+5. If no USB drive is available, transfer the ROM archives into the game's `LocalState` folder instead.
+6. Place any custom soundtrack files into the application's `LocalState` folder.
+7. On the Xbox Developer Dashboard, highlight **Scud Race** and press the **View button (Select)**.
+8. Change the application type from **APP** to **GAME**.
+9. Launch Scud Race.
 
-Drop scud.zip on to the root of your XSX formatted USB stick/drive.
+> **Important:** Ensure the application is configured as a **GAME**, not an APP, before launching.
 
-Drop dayto2pe.zip on to the root of your XSX formatted USB stick/drive.
+---
 
-If no USB drives are available, you can transfer these to your localstate folder for Scud Race.
+## ⚠️ Other Platforms
 
-Drop your custom soundtrack into the apps localstate folder.
+This software specifically targets the following platforms:
 
-Highlight Scud Race on the developer dashboard and press view button (select) and make sure to change it from APP to GAME.
+- Windows PC
+- Xbox 360
+- Xbox Series X
 
-Launch Scud Race.
+It may run on other hardware, but these configurations are **untested and unsupported**.
 
+Running Scud Race on other platforms is entirely at your own discretion. Quality, performance, and functionality cannot be guaranteed, and support will not be provided for issues arising on unsupported platforms.
 
-Other platforms.
+### Our Approach To Quality
 
+Every release is tested on its intended platforms by myself and other testers during private testing.
 
-This software is targeting the above mentioned platforms ONLY. It may run on others but is untested and provided as is. Any issues that arise when using this on other platforms is done so with the understanding that quality and/or functionality is not guaranteed and no support will be given.
+This allows us to verify functionality, identify platform-specific issues, and ensure that each supported version meets our quality standards.
 
-All of my releases are tested on the supported platforms by myself and other during private testing to ensure the platforms we do support work as intended and to ensure it meets our quality standards. We do this to make sure you have a great time.
+We put the time into testing because we want you to have a great experience playing these classics.
 
-If you would like to support the project, we accept donations via KoFi. The donations are used to provide more ports and to pay for the infrastructure they use. Thank you so much for allowing me to bring you these classics!
+---
 
-https://ko-fi.com/wanszai
+## ❤️ Support The Project
+
+If you're enjoying Scud Race and would like to support the work, donations are always appreciated.
+
+Contributions help fund:
+
+- Development of additional arcade ports
+- Hosting and maintenance of online infrastructure
+- Dedicated multiplayer servers
+
+All support goes towards keeping these projects alive and bringing more classic arcade experiences to modern hardware.
+
+**Thank you so much for allowing me to bring you these classics!**
+
+### ☕ Support on Ko-fi
+
+**[ko-fi.com/wanszai](https://ko-fi.com/wanszai)**
+
+---
+
+<div align="center">
+
+### 🏁 KEEP THE ARCADE ALIVE 🏁
+
+*30 years of Scud Race. Still racing.*
+
+**Made with passion for the games we grew up loving.**
+
+</div>
