@@ -132,11 +132,11 @@ Scud Race/
 ### 🎮 Xbox 360
 
 1. Extract Scud Race to your preferred directory.
-2. Place `scud.zip` alongside `scudrace.xex`.
-3. Place the optional `dayto2pe.zip` alongside `scudrace.xex`.
+2. Place `scud.zip` alongside `default.xex`.
+3. Place the optional `dayto2pe.zip` alongside `default.xex`.
 4. Copy any custom soundtrack files into the `Music` folder.
 5. Transfer the complete Scud Race folder to your Xbox 360 storage.
-6. Launch `scudrace.xex`.
+6. Launch `default.xex`.
 
 **Example directory structure:**
 
